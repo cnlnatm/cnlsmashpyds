@@ -1,0 +1,201 @@
+Rank,App,Company,Category,Rating,Installs,Recent
+1,TikTok,TikTok Pte. Ltd.,Social,4.2,3.2 B,50 M
+2,Temu: Shop Like a Billionaire,Temu,Shopping,4.6,360 M,32 M
+3,WhatsApp Messenger,WhatsApp LLC,Communication,4.3,9.2 B,90 M
+4,Instagram,Instagram,Social,4,5.6 B,62 M
+5,Telegram,Telegram FZ-LLC,Communication,4.3,2 B,48 M
+6,SHEIN-Shopping Online,Roadget Business PTE. LTD.,Shopping,4.3,660 M,16 M
+7,Messenger,"Meta Platforms, Inc.",Communication,4.1,6.6 B,46 M
+8,Cash App,"Block, Inc.",Finance,4.6,110 M,1.4 M
+9,Snapchat,Snap Inc,Communication,4.1,3 B,39 M
+10,Facebook,"Meta Platforms, Inc.",Social,4.1,9.7 B,91 M
+11,Indeed Job Search,Indeed Jobs,Business,4.7,200 M,3.3 M
+12,"Threads, an Instagram app",Instagram,Social,4.1,210 M,15 M
+13,Tonkeeper — TON Wallet,Ton Apps Limited,Finance,4.6,20 M,15 M
+14,TextNow: Call + Text Unlimited,"TextNow, Inc.",Communication,4.5,110 M,930 K
+15,CapCut - Video Editor,Bytedance Pte. Ltd.,Video Players & Editors,4.4,1 B,32 M
+16,Talkie AI: Chat With Character,SUBSUP,Entertainment,4.6,16 M,1.4 M
+17,ABPV America’s best pics&vids,FUNTECH PUBLISHING LTD,Social,4.2,11 M,410 K
+18,Netflix,"Netflix, Inc.",Entertainment,4.1,2.7 B,31 M
+19,"Max: Stream HBO, TV, & Movies","WarnerMedia Global Digital Services, LLC",Entertainment,4.8,60 M,8.6 M
+20,Tubi: Free Movies & Live TV,Tubi TV,Entertainment,4.8,170 M,1.8 M
+21,NewsBreak: Local News & Alerts,Particle Media Inc.,News & Magazines,4.5,77 M,810 K
+22,McDonald's,"McDonalds USA, LLC",Food & Drink,4.7,62 M,690 K
+23,X,X Corp.,Social,3.7,1.6 B,13 M
+24,Google Gemini,Google LLC,Productivity,4.3,9.8 M,6.1 M
+25,ChatGPT,OpenAI,Productivity,4.7,110 M,12 M
+26,Walmart: Shopping & Savings,Walmart,Shopping,4.7,100 M,960 K
+27,Amazon Flex,Amazon Mobile LLC,Business,4.6,440 K,430 K
+28,"Follow Me - Workout, plan",JATHLEHEM LIMITED,Health & Fitness,4.5,3.8 M,2.4 M
+29,PDF Reader - PDF Viewer,QR Code Scanner.,Productivity,4.6,110 M,12 M
+30,DoorDash - Food Delivery,DoorDash,Food & Drink,4.6,64 M,790 K
+31,"PayPal - Send, Shop, Manage",PayPal Mobile,Finance,4.3,360 M,4.8 M
+32,Zoom Workplace,zoom.us,Business,4.1,1.1 B,9.6 M
+33,Life360: Live Location Sharing,Life360,Lifestyle,4.6,150 M,2.5 M
+34,"Discord - Talk, Play, Hang Out",Discord Inc.,Communication,3,470 M,7.1 M
+35,Pinterest,Pinterest,Lifestyle,4.5,1.1 B,16 M
+36,Chime – Mobile Banking,Chime,Finance,4.7,26 M,570 K
+37,Spotify: Music and Podcasts,Spotify AB,Music & Audio,4.4,2.1 B,31 M
+38,Microsoft Teams,Microsoft Corporation,Business,4.6,440 M,5.1 M
+39,Pocket FM: Audio Series,Pocket FM Corp.,Music & Audio,4.5,140 M,5.5 M
+40,Uber - Request a ride,"Uber Technologies, Inc.",Maps & Navigation,4.6,890 M,7.9 M
+41,Alibaba.com - B2B marketplace,Alibaba Mobile,Shopping,4.5,450 M,8.3 M
+42,Reddit,reddit Inc.,Social,3.4,160 M,2.6 M
+43,Microsoft Authenticator,Microsoft Corporation,Business,4.6,130 M,2.9 M
+44,Amazon Shopping,Amazon Mobile LLC,Shopping,4.4,810 M,8.6 M
+45,Flashlight Pro: Super LED,LightRain Global,Tools,4.4,4.9 M,3.2 M
+46,Pluto TV: Watch Movies & TV,"Pluto, Inc.",Entertainment,4,200 M,3.4 M
+47,Peacock TV: Stream TV & Movies,Peacock TV LLC,Entertainment,4.5,37 M,660 K
+48,Linky: Chat with Characters AI,Skywork AI Pte. Ltd.,Social,4.1,4.7 M,1.6 M
+49,ShortMax - Watch Dramas & Show,SHORTMAX LIMITED,Entertainment,3.9,21 M,2.7 M
+50,Easy Homescreen,Homescreen Apps,Personalization,3.9,2.7 M,460 K
+51,Disney+,Disney,Entertainment,4.4,380 M,7.6 M
+52,QR & Barcode Scanner,Gamma Play,Tools,4.5,580 M,9.9 M
+53,The Roku App (Official),"Roku, Inc. & its affiliates",Entertainment,4.7,72 M,1.1 M
+54,"Scoopz: Real Life, Real Video","Local AI, Inc.",Entertainment,4.7,1.1 M,380 K
+55,Amazon Prime Video,Amazon Mobile LLC,Entertainment,3.9,660 M,7.9 M
+56,Facebook Lite,"Meta Platforms, Inc.",Social,3.5,3.3 B,36 M
+57,Health Tracker,Appsky Hong Kong Limited,Health & Fitness,4.4,29 M,2.6 M
+58,Venmo,Venmo,Finance,4.1,55 M,530 K
+59,Impulse - Brain Training Games,GMRD Apps Limited,Health & Fitness,4.6,2.1 M,1.3 M
+60,MISTPLAY: Play to Earn Money,MISTPLAY,Entertainment,4.6,39 M,730 K
+61,Lyft,"Lyft, Inc.",Maps & Navigation,4.8,63 M,580 K
+62,Google Translate,Google LLC,Tools,4.1,1.4 B,9.3 M
+63,QR & Barcode Scanner Launcher,AtomApplications,Tools,3.5,710 K,270 K
+64,Zelle,"Early Warning Services, LLC",Finance,4,27 M,370 K
+65,Duolingo: Language Lessons,Duolingo,Education,4.7,580 M,11 M
+66,AliExpress,Alibaba Mobile,Shopping,4.5,700 M,6.6 M
+67,Microsoft Edge: AI browser,Microsoft Corporation,Communication,4.6,96 M,3.1 M
+68,Samsung Smart Switch Mobile,"Samsung Electronics Co., Ltd.",Tools,3.9,870 M,49 M
+69,Poly.AI - Create AI Chat Bot,CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.,Entertainment,4.4,13 M,1.1 M
+70,Airbnb,Airbnb,Travel & Local,4.5,190 M,3.5 M
+71,Pandora - Music & Podcasts,Pandora,Music & Audio,3.9,300 M,760 K
+72,Daily Forecast: Weather&Radar,ReadMore,Weather,4.8,9.4 M,4.2 M
+73,Google Wallet,Google LLC,Finance,4.4,930 M,28 M
+74,"ViX: TV, Deportes y Noticias",Univision Communications Inc.,Entertainment,4.3,82 M,2.2 M
+75,Instabridge: WiFi Map,Degoo Backup AB - Cloud,Productivity,4.2,220 M,4.7 M
+76,JustPlay: Earn Money or Donate,JustPlay GmbH,Entertainment,4.5,18 M,1 M
+77,Hulu: Stream TV shows & movies,Disney,Entertainment,4.5,93 M,540 K
+78,"Expedia: Hotels, Flights & Car",Expedia,Travel & Local,4.8,60 M,670 K
+79,YouTube Kids,Google LLC,Entertainment,4.3,640 M,13 M
+80,Uber Eats: Food Delivery,"Uber Technologies, Inc.",Food & Drink,4.3,240 M,1.6 M
+81,TikTok Studio,TikTok Pte. Ltd.,Video Players & Editors,4.5,3.6 M,3.6 M
+82,Ai Browser - Smarter & Safer,Readerland,Tools,4.8,6.9 M,4.3 M
+83,"Character AI: Chat, Talk, Text",Character.AI,Entertainment,4.3,18 M,2 M
+84,Simply Sing - Learn to Sing,Simply Ltd,Music & Audio,4.3,1.9 M,940 K
+85,ADP Mobile Solutions,"ADP, INC.",Business,4.5,28 M,300 K
+86,Capital One Mobile,"Capital One Services, LLC",Finance,4.5,43 M,380 K
+87,Move to iOS,Apple,Tools,3.6,170 M,2.9 M
+88,Waze Navigation & Live Traffic,Waze,Maps & Navigation,4.4,530 M,4.4 M
+89,Cash Giraffe - Play and earn,Cash Giraffe,Lifestyle,4.4,9.5 M,530 K
+90,ReelShort - Stream Drama & TV,NewLeaf Publishing,Entertainment,4.1,23 M,1.9 M
+91,Adobe Acrobat Reader: Edit PDF,Adobe,Productivity,4.6,780 M,4.6 M
+92,Paramount+,"CBS Interactive, Inc.",Entertainment,3.7,35 M,400 K
+93,Google Authenticator,Google LLC,Tools,3.8,190 M,4.1 M
+94,Planet Fitness Workouts,Planet Fitness,Health & Fitness,4.7,14 M,300 K
+95,All Video Downloader & Player,QR Code Scanner.,Tools,4.7,110 M,11 M
+96,Google Find My Device,Google LLC,Tools,4.3,490 M,26 M
+97,"Canva: Design, Art & AI Editor",Canva,Art & Design,4.8,430 M,8.1 M
+98,JumpJumpVPN- Fast & Secure VPN,SOON BODYWERKZ,Tools,4.7,1.8 M,1.3 M
+99,Go Translate All Languages,iKame Applications - Begamob Apps,Tools,4.2,6 M,2.3 M
+100,Local News: Breaking & Latest,NEWSDELIVER LIMITED,News & Magazines,4.6,3.5 M,250 K
+101,Crunchyroll,"Crunchyroll, LLC",Entertainment,4.7,130 M,4.2 M
+102,LazyShape:Weight Loss at Home,JATHLEHEM LIMITED,Health & Fitness,4.7,430 K,430 K
+103,MyChart,Epic Systems Corporation,Medical,4.6,22 M,310 K
+104,WhatsApp Business,WhatsApp LLC,Communication,4.4,1.3 B,30 M
+105,"Ora Clean & Master, Antivirus",Ora Tools,Tools,4.8,16 M,2 M
+106,Uber - Driver: Drive & Deliver,"Uber Technologies, Inc.",Business,4.6,160 M,2.1 M
+107,YouTube TV: Live TV & more,Google LLC,Entertainment,4,24 M,330 K
+108,Vrbo Vacation Rentals,Vrbo,Travel & Local,4.8,19 M,350 K
+109,Shop: All your favorite brands,Shopify Inc.,Shopping,4.6,41 M,550 K
+110,Circle K,Circle K North America,Shopping,4.7,2.3 M,160 K
+111,Bigo Live - Live Streaming App,Bigo Technology Pte. Ltd.,Social,4.5,670 M,8 M
+112,Progressive,Progressive Insurance,Finance,4.6,18 M,240 K
+113,Starbucks,Starbucks Coffee Company,Food & Drink,4.8,39 M,380 K
+114,Canary VPN : Fast & Secure,Md Azhar Yaqoobi,Tools,4.6,240 K,120 K
+115,Fast Launcher,Innova Tool,Personalization,3.6,890 K,330 K
+116,DoorDash - Dasher,DoorDash,Business,4.4,19 M,300 K
+117,testerup - earn money,aestimium GmbH,Finance,4.1,5.4 M,340 K
+118,Live Earth Map & GPS Map,Gitola Tech Studios,Maps & Navigation,3.6,4.1 M,2 M
+119,Twitch: Live Game Streaming,"Twitch Interactive, Inc.",Entertainment,4.3,270 M,2.7 M
+120,Neku: OC character creator,Sticker Maker Inc.,Entertainment,4.5,2.8 M,1.1 M
+121,eBay online shopping & selling,eBay Mobile,Shopping,4.7,370 M,1.6 M
+122,Secure VPN－Safer Internet,Secure Signal Inc.,Tools,4.8,190 M,5.2 M
+123,Fetch: America’s Rewards App,Fetch Rewards,Shopping,4.6,20 M,280 K
+124,LinkedIn: Jobs & Business News,LinkedIn,Business,4.1,1.6 B,27 M
+125,Chase Mobile,JPMorgan Chase,Finance,4.4,51 M,310 K
+126,Target,Target Corporation,Shopping,3.8,36 M,300 K
+127,Music Player & MP3 - DDMusic,Hitchhike Tech,Music & Audio,4.7,79 M,9.2 M
+128,The Home Depot,"The Home Depot, Inc.",Shopping,4.7,25 M,320 K
+129,PulseCare：Health Tracker,Appsky Hong Kong Limited,Health & Fitness,4.6,3 M,1.2 M
+130,Zillow: Homes For Sale & Rent,Zillow,House & Home,4.7,50 M,290 K
+131,Domino's Pizza USA,Domino's Pizza LLC,Food & Drink,4.7,29 M,250 K
+132,Instacart: Food delivery today,Instacart,Food & Drink,4.2,20 M,270 K
+133,PDF Reader,Welkin Team,Tools,4.6,2.2 M,1.2 M
+134,PictureThis - Plant Identifier,Glority Global Group Ltd.,Education,4.6,53 M,950 K
+135,One — Mobile Banking,"ONE Finance, Inc.",Finance,4.4,2.3 M,170 K
+136,DuckDuckGo Private Browser,DuckDuckGo,Tools,4.7,58 M,1 M
+137,Booking.com: Hotels & Travel,Booking.com Hotels & Vacation Rentals,Travel & Local,4.5,660 M,6.7 M
+138,Chick-fil-A®,"Chick-fil-A, Inc.",Food & Drink,4.6,21 M,230 K
+139,Turbo VPN - Secure VPN Proxy,Innovative Connecting,Tools,4.7,360 M,6.2 M
+140,Xfinity,Comcast,Productivity,3.9,15 M,270 K
+141,Photoroom AI Photo Editor,Photoroom AI Photo Editor,Photography,4.7,100 M,3.6 M
+142,Subway®,SUBWAY Restaurants,Food & Drink,4.3,20 M,260 K
+143,OfferUp: Buy. Sell. Letgo.,OfferUp Inc.,Shopping,4.4,73 M,330 K
+144,Remote for Roku: TV Remote,BoostVision,Tools,4.1,5.4 M,480 K
+145,Google Earth,Google LLC,Travel & Local,4.2,530 M,3.1 M
+146,Running to Bed Launcher,Shlav Haba,Tools,4.2,780 K,280 K
+147,Signal Private Messenger,Signal Foundation,Communication,4.5,140 M,1.4 M
+148,Remote Control for TV - All TV,Hitchhike Tech,Tools,4.7,38 M,1.7 M
+149,DS Scanner: PDF & ID Scanner,AVN Software Inc,Tools,4.1,3.6 M,890 K
+150,Zangi Private Messenger,"Secret Phone, Inc",Communication,4.4,20 M,1.2 M
+151,Text Free: Second Phone Number,"Pinger, Inc",Social,4.4,46 M,260 K
+152,Bank of America Mobile Banking,Bank of America,Finance,4.6,48 M,270 K
+153,The Weather Channel - Radar,The Weather Channel,Weather,4.7,140 M,410 K
+154,Coffee Meets Bagel,Coffee Meets Bagel Inc.,Dating,3.4,28 K,0
+155,Air Horn: Funny Prank Sounds,Braly JSC,Entertainment,4.4,17 M,1.8 M
+156,Calculator Vault,Lara Pollar,Tools,4.3,26 M,480 K
+157,Prank Sound: Hair Cut & Fart,Smart Utilities Hub,Entertainment,4.7,850 K,490 K
+158,Intuit Credit Karma,"Credit Karma, LLC",Finance,4.7,48 M,290 K
+159,My Spectrum,Charter/Spectrum,Tools,4.6,17 M,250 K
+160,NordVPN – fast VPN for privacy,Nord Security,Tools,4.5,79 M,1.4 M
+161,T Life (T-Mobile Tuesdays),T-Mobile USA,Lifestyle,4.8,21 M,320 K
+162,BURGER KING® App,"Burger King, Inc.",Food & Drink,4.4,22 M,230 K
+163,CallApp: Caller ID & Block,"CallApp Caller ID, Call Recorder & Spam Blocker",Communication,4.3,300 M,6.2 M
+164,Yahoo Mail – Organized Email,Yahoo,Communication,4.6,320 M,1.1 M
+165,Zedge™ Wallpapers & Ringtones,Zedge,Personalization,4.7,570 M,3.7 M
+166,Norton360 Antivirus & Security,NortonMobile,Tools,4.6,72 M,710 K
+167,Plex: Stream Movies & TV,"Plex, Inc.",Entertainment,4.4,59 M,1.5 M
+168,SecureX - Safe Proxy Browser,DS Browsers,Tools,4.1,18 M,5 M
+169,Rewarded Play: Earn Gift Cards,"Influence Mobile, Inc.",Entertainment,4.3,17 M,280 K
+170,"SiriusXM: Music, Sports & News",SiriusXM,Music & Audio,4.6,30 M,300 K
+171,Etsy: Shop & Gift with Style,"Etsy, Inc",Shopping,4.8,52 M,600 K
+172,Sam's Club,Sam's Club,Shopping,4.9,31 M,280 K
+173,"ZEPETO: Avatar, Connect & Play",Naver Z Corporation,Entertainment,4.4,190 M,1.7 M
+174,"Nike: Shoes, Apparel & Stories","Nike, Inc.",Shopping,4.7,81 M,1.2 M
+175,Picsart: AI Photo Video Editor,"PicsArt, Inc.",Photography,4,1.2 B,8 M
+176,Video Editor & Maker - InShot,InShot Video Editor,Photography,4.8,690 M,8 M
+177,Amazon Music: Songs & Podcasts,Amazon Mobile LLC,Music & Audio,3.3,320 M,1.6 M
+178,"Themepack - App Icons, Widgets",YoloTech,Personalization,4.8,37 M,2 M
+179,Blood Pressure App,QR Code Scanner.,Health & Fitness,4.4,72 M,1.2 M
+180,U-Haul,U-Haul International,Travel & Local,3,3.5 M,170 K
+181,Workday,"Workday, Inc.",Business,4.3,15 M,240 K
+182,SoundCloud: Play Music & Songs,SoundCloud,Music & Audio,4.7,400 M,2.2 M
+183,Bumble Dating App: Meet & Date,Bumble Holding Limited,Dating,3.8,79 M,1.6 M
+184,Lowe's,"Lowe's Companies, Inc.",Shopping,4.6,15 M,230 K
+185,Freecash: Earn Money & Rewards,Freecash,Finance,4.1,6.3 M,780 K
+186,CVS/pharmacy,CVS Pharmacy,Shopping,4.3,20 M,180 K
+187,Chatbot AI & Smart Assistant,Codespace Dijital,Productivity,4.4,12 M,3.4 M
+188,Google Voice,Google LLC,Communication,4.4,38 M,310 K
+189,Wendy’s,"Wendy's Int'l., LLC",Food & Drink,4.5,15 M,220 K
+190,Inbox Homescreen,Homescreen Apps,Communication,4.2,290 K,120 K
+191,VPN - Super Unlimited Proxy,VPN Super Inc,Tools,4.5,110 M,4.4 M
+192,MONEY CASH - Play Games & Earn,GameTester,Entertainment,4.4,3.4 M,380 K
+193,Wells Fargo Mobile,Wells Fargo Mobile,Finance,4.8,42 M,230 K
+194,Live Weather Radar Launcher,AtomApplications,Weather,4.1,410 K,150 K
+195,Tinder Dating App: Chat & Date,Tinder,Dating,3.6,410 M,3.4 M
+196,"Affirm: Buy now, pay over time","Affirm, Inc",Shopping,4.8,10 M,200 K
+197,Fly Delta,"Delta Air Lines, Inc.",Travel & Local,4.7,21 M,240 K
+198,Bing: Chat with AI & GPT-4,Microsoft Corporation,Tools,4.5,84 M,5.7 M
+199,HulaVPN - Fast Secure VPN,Hula Link,Tools,4.6,11 M,1.9 M
+200,American Airlines,"American Airlines, Inc.",Travel & Local,4.5,20 M,260 K
