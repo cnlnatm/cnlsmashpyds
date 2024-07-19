@@ -1,5 +1,5 @@
 id,Period Number,Name,Symbol,Atomic Number,Atomic Weight,Melting Point,Boiling Point,Density,Phase at Room Temperature,Atom Classification,Group,Uses
-1,1.0,Hydrogen,H,1.0,1.00794,-434.81,-423.17,8.988e-05,Gas,Non-metal,No definitive group,"Sun and Stars, Water"
+1,1.0,Hydrogen,H,1.0,1.00794,-434.81,-423.17,0.00008988,Gas,Non-metal,No definitive group,"Sun and Stars, Water"
 2,1.0,Helium,He,2.0,4.002602,-458.0,-452.07,0.0001785,Gas,Non-metal,Noble Gas,"Ballons, Lasers, Refrigerants"
 3,2.0,Lithium,Li,3.0,6.941,356.9,2448.0,0.534,Solid,Metal,Alkali Metals,"Batteries, Ceramic Cookware"
 4,2.0,Beryllium,Be,4.0,9.1021831,2349.0,4480.0,1.85,Solid,Metal,Alkali Earth Metals,"Emeralds, Copper Alloy Tools"
