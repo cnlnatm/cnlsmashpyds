@@ -1,4 +1,4 @@
-FIPS_Code,State,Area_Name,Rural_Urban_Continuum_Code_2013,Urban_Influence_Code_2013,Metro_2013,Civilian_labor_force_2021,Employed_2021,Unemployed_2021,Unemployment_rate_2021,Median_Household_Income_2021,Med_HH_Income_Percent_of_State_Total_2021
+FIPS_Code,State,Area_Name,Rural_Urban_Code,Urban_Influence_Code,Metro_Code,Civilian_Labor_Force,Employed,Unemployed,Unemployment_Rate,Med_Income,Med_HH_Income_Percent
 01001,AL,"Autauga County, AL",2,2,1,"26,545","25,809",736,2.8,"66,444",123.1
 01003,AL,"Baldwin County, AL",3,2,1,"99,953","97,034","2,919",2.9,"65,658",121.6
 01005,AL,"Barbour County, AL",6,6,0,"8,280","7,821",459,5.5,"38,649",71.6
